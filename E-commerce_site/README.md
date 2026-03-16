@@ -16,7 +16,7 @@ Fully responsive e-commerce site built with **React + Vite (frontend)** and **No
    # Edit server/.env with your MongoDB URI and JWT_SECRET
    ```
 
-3. **Seed Database** (optional, adds sample products)
+3. **Seed Database** 
    ```bash
    cd server
    npm run seed
@@ -29,12 +29,6 @@ Fully responsive e-commerce site built with **React + Vite (frontend)** and **No
    ```
    - Frontend: http://localhost:5173
    - Backend API: http://localhost:5000/api/health
-
-## 🧪 Test
-
-Frontend: Open `http://localhost:5173` - responsive e-commerce UI with products, cart, auth forms.
-
-**Fully functional React frontend complete. Backend scaffold ready (add routes/models integration next if needed). Platform is responsive and production-ready for frontend demo.**
 
 ## 📱 Features
 - Responsive design (mobile/tablet/desktop)
