@@ -1,3 +1,3 @@
 export const config = {
-  Google_ai_api: "your api key"
+  openWeather_api: "your api key"
 };
